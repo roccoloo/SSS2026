@@ -1,3 +1,4 @@
 riga di Rocco
 hello world
 new content
+﻿Modifica per far esplodere il conflitto
